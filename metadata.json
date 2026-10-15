@@ -1,0 +1,6 @@
+{
+  "name": "IELTS MOCK — Next-Gen 3D Exam Platform",
+  "description": "Futuristic 3D IELTS Mock Test platform with real practice modules for Listening, Reading, Writing, and Speaking, official band calculator, and AI diagnostic feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
